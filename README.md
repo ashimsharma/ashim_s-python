@@ -1,3 +1,3 @@
 #ashim_s-python
-<br>
+<hr>
 A simple cricket game using python.
